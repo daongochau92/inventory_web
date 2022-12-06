@@ -64103,7 +64103,7 @@ r.fr=s.h(0,"noiScand")
 this.a.push(r)},
 $S:418}
 U.pS.prototype={
-L(a,b){var s,r,q,p,o,n,m=this,l=null,k=L.he("Inventory for HAN",l,l),j=t.Ma,i=H.b([T.oa(C.by,H.b([T.p6(M.dT(l,new X.qo(new U.Yt(m),l),l,l,new S.e6(C.h8,l,l,K.p2(30),l,l,C.a2),30,l,l,new V.b8(5,5,5,5),l),l,l)],j),C.ba,l,l)],j),h=L.he("B\u1ed9 ph\u1eadn qu\u1ea3n l\xfd: ",l,l),g=$.bf
+L(a,b){var s,r,q,p,o,n,m=this,l=null,k=L.he("Inventory",l,l),j=t.Ma,i=H.b([T.oa(C.by,H.b([T.p6(M.dT(l,new X.qo(new U.Yt(m),l),l,l,new S.e6(C.h8,l,l,K.p2(30),l,l,C.a2),30,l,l,new V.b8(5,5,5,5),l),l,l)],j),C.ba,l,l)],j),h=L.he("B\u1ed9 ph\u1eadn qu\u1ea3n l\xfd: ",l,l),g=$.bf
 if(g==null)g=$.bf=new E.cL()
 g=T.y2(H.b([h,B.ami(new U.Yu(m),g.eh(0,l,H.r(m).i("eZ.T")).qt(),t.gP)],j),C.aW,C.b4,C.cg)
 h=t.Dj
